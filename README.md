@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Monica Vargas 
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning JS 
+- 📫 How to reach me send me an email: moni.va.mv@gmail.com or send me a message through LinkedIn www.linkedin.com/in/monica-vargas-709b96b2
